@@ -39,7 +39,7 @@ namespace MVVM
             
             
 
-            IEnumerable<Reservation> reservations = hotel.GetReservationForUser("SingeltonSean");
+            IEnumerable<Reservation> reservations = hotel.GetAllReservations();
 
             base.OnStartup(e);
         }

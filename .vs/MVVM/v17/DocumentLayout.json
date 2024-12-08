@@ -3,20 +3,76 @@
   "WorkspaceRootPath": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|C:\\Users\\TIA V19\\source\\repos\\MVVM\\mvvm\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|solutionrelative:mvvm\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|C:\\Users\\TIA V19\\source\\repos\\MVVM\\mvvm\\viewmodels\\reservationlistingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|solutionrelative:mvvm\\viewmodels\\reservationlistingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|c:\\users\\tia v19\\source\\repos\\mvvm\\mvvm\\viewmodels\\reservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|solutionrelative:mvvm\\viewmodels\\reservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|c:\\users\\tia v19\\source\\repos\\mvvm\\mvvm\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|solutionrelative:mvvm\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|c:\\users\\tia v19\\source\\repos\\mvvm\\mvvm\\comands\\navigatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|solutionrelative:mvvm\\comands\\navigatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|c:\\users\\tia v19\\source\\repos\\mvvm\\mvvm\\views\\reservationlistingview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|solutionrelative:mvvm\\views\\reservationlistingview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|C:\\Users\\TIA V19\\source\\repos\\MVVM\\mvvm\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|solutionrelative:mvvm\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|C:\\Users\\TIA V19\\source\\repos\\MVVM\\mvvm\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|solutionrelative:mvvm\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|C:\\Users\\TIA V19\\source\\repos\\MVVM\\mvvm\\viewmodels\\makereservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|solutionrelative:mvvm\\viewmodels\\makereservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|c:\\users\\tia v19\\source\\repos\\mvvm\\mvvm\\comands\\cancelmakereservationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|solutionrelative:mvvm\\comands\\cancelmakereservationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|c:\\users\\tia v19\\source\\repos\\mvvm\\mvvm\\comands\\makereservationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|solutionrelative:mvvm\\comands\\makereservationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|c:\\users\\tia v19\\source\\repos\\mvvm\\mvvm\\comands\\comandbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|solutionrelative:mvvm\\comands\\comandbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|C:\\Users\\TIA V19\\source\\repos\\MVVM\\mvvm\\models\\reservationbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|solutionrelative:mvvm\\models\\reservationbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|c:\\users\\tia v19\\source\\repos\\mvvm\\mvvm\\views\\makereservationview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|solutionrelative:mvvm\\views\\makereservationview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|C:\\Users\\TIA V19\\source\\repos\\MVVM\\mvvm\\views\\reservationlistingview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|solutionrelative:mvvm\\views\\reservationlistingview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|C:\\Users\\TIA V19\\source\\repos\\MVVM\\mvvm\\views\\makereservationview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|solutionrelative:mvvm\\views\\makereservationview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|C:\\Users\\TIA V19\\source\\repos\\MVVM\\mvvm\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|solutionrelative:mvvm\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|C:\\Users\\TIA V19\\source\\repos\\MVVM\\mvvm\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|solutionrelative:mvvm\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|C:\\Users\\TIA V19\\source\\repos\\MVVM\\mvvm\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|solutionrelative:mvvm\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|C:\\Users\\TIA V19\\source\\repos\\MVVM\\mvvm\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|solutionrelative:mvvm\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|C:\\Users\\TIA V19\\source\\repos\\MVVM\\mvvm\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,42 +81,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|C:\\Users\\TIA V19\\source\\repos\\MVVM\\mvvm\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|solutionrelative:mvvm\\models\\hotel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|c:\\users\\tia v19\\source\\repos\\mvvm\\mvvm\\viewmodels\\reservationlistingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|solutionrelative:mvvm\\viewmodels\\reservationlistingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|c:\\users\\tia v19\\source\\repos\\mvvm\\mvvm\\viewmodels\\makereservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|solutionrelative:mvvm\\viewmodels\\makereservationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|c:\\users\\tia v19\\source\\repos\\mvvm\\mvvm\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|solutionrelative:mvvm\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|C:\\Users\\TIA V19\\source\\repos\\MVVM\\mvvm\\views\\makereservationview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|solutionrelative:mvvm\\views\\makereservationview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|C:\\Users\\TIA V19\\source\\repos\\MVVM\\mvvm\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|solutionrelative:mvvm\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|C:\\Users\\TIA V19\\source\\repos\\MVVM\\mvvm\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|solutionrelative:mvvm\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|C:\\Users\\TIA V19\\source\\repos\\MVVM\\mvvm\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|solutionrelative:mvvm\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|C:\\Users\\TIA V19\\source\\repos\\MVVM\\mvvm\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|solutionrelative:mvvm\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|C:\\Users\\TIA V19\\source\\repos\\MVVM\\mvvm\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|solutionrelative:mvvm\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0215FFC8-C8C5-4979-99E9-0CEE920B7606}|MVVM\\MVVM.csproj|C:\\Users\\TIA V19\\source\\repos\\MVVM\\mvvm\\models\\roomid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,11 +98,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NavigateCommand.cs",
+              "DocumentMoniker": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\Comands\\NavigateCommand.cs",
+              "RelativeDocumentMoniker": "MVVM\\Comands\\NavigateCommand.cs",
+              "ToolTip": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\Comands\\NavigateCommand.cs",
+              "RelativeToolTip": "MVVM\\Comands\\NavigateCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T07:11:50.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "MVVM\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "MVVM\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:43:06.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ViewModelBase.cs",
+              "DocumentMoniker": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\ViewModels\\ViewModelBase.cs",
+              "RelativeDocumentMoniker": "MVVM\\ViewModels\\ViewModelBase.cs",
+              "ToolTip": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\ViewModels\\ViewModelBase.cs",
+              "RelativeToolTip": "MVVM\\ViewModels\\ViewModelBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T18:25:22.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MVVM\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\MainWindow.xaml",
+              "RelativeToolTip": "MVVM\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T18:49:19.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ReservationViewModel.cs",
               "DocumentMoniker": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\ViewModels\\ReservationViewModel.cs",
               "RelativeDocumentMoniker": "MVVM\\ViewModels\\ReservationViewModel.cs",
@@ -96,171 +167,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ViewModelBase.cs",
-              "DocumentMoniker": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\ViewModels\\ViewModelBase.cs",
-              "RelativeDocumentMoniker": "MVVM\\ViewModels\\ViewModelBase.cs",
-              "ToolTip": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\ViewModels\\ViewModelBase.cs",
-              "RelativeToolTip": "MVVM\\ViewModels\\ViewModelBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T18:25:22.506Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Hotel.cs",
-              "DocumentMoniker": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\Models\\Hotel.cs",
-              "RelativeDocumentMoniker": "MVVM\\Models\\Hotel.cs",
-              "ToolTip": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\Models\\Hotel.cs",
-              "RelativeToolTip": "MVVM\\Models\\Hotel.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAcwBcAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T18:50:56.89Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Reservation.cs",
-              "DocumentMoniker": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\Models\\Reservation.cs",
-              "RelativeDocumentMoniker": "MVVM\\Models\\Reservation.cs",
-              "ToolTip": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\Models\\Reservation.cs",
-              "RelativeToolTip": "MVVM\\Models\\Reservation.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAA6wBIAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T18:51:33.149Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ReservationBook.cs",
-              "DocumentMoniker": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\Models\\ReservationBook.cs",
-              "RelativeDocumentMoniker": "MVVM\\Models\\ReservationBook.cs",
-              "ToolTip": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\Models\\ReservationBook.cs",
-              "RelativeToolTip": "MVVM\\Models\\ReservationBook.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAgwBUAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T18:51:17.229Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ReservationListingView.xaml",
-              "DocumentMoniker": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\Views\\ReservationListingView.xaml",
-              "RelativeDocumentMoniker": "MVVM\\Views\\ReservationListingView.xaml",
-              "ToolTip": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\Views\\ReservationListingView.xaml",
-              "RelativeToolTip": "MVVM\\Views\\ReservationListingView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-05T06:03:47.77Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "ReservationListingViewModel.cs",
               "DocumentMoniker": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\ViewModels\\ReservationListingViewModel.cs",
               "RelativeDocumentMoniker": "MVVM\\ViewModels\\ReservationListingViewModel.cs",
               "ToolTip": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\ViewModels\\ReservationListingViewModel.cs",
               "RelativeToolTip": "MVVM\\ViewModels\\ReservationListingViewModel.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAPAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T18:41:56.986Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "MakeReservationViewModel.cs",
               "DocumentMoniker": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\ViewModels\\MakeReservationViewModel.cs",
               "RelativeDocumentMoniker": "MVVM\\ViewModels\\MakeReservationViewModel.cs",
               "ToolTip": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\ViewModels\\MakeReservationViewModel.cs",
               "RelativeToolTip": "MVVM\\ViewModels\\MakeReservationViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAPAAAA",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAzwGsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-05T18:40:47.223Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CancelMakeReservationCommand.cs",
+              "DocumentMoniker": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\Comands\\CancelMakeReservationCommand.cs",
+              "RelativeDocumentMoniker": "MVVM\\Comands\\CancelMakeReservationCommand.cs",
+              "ToolTip": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\Comands\\CancelMakeReservationCommand.cs",
+              "RelativeToolTip": "MVVM\\Comands\\CancelMakeReservationCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T06:45:40.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "MainViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\ViewModels\\MainViewModel.cs",
-              "RelativeDocumentMoniker": "MVVM\\ViewModels\\MainViewModel.cs",
-              "ToolTip": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\ViewModels\\MainViewModel.cs",
-              "RelativeToolTip": "MVVM\\ViewModels\\MainViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Title": "MakeReservationCommand.cs",
+              "DocumentMoniker": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\Comands\\MakeReservationCommand.cs",
+              "RelativeDocumentMoniker": "MVVM\\Comands\\MakeReservationCommand.cs",
+              "ToolTip": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\Comands\\MakeReservationCommand.cs",
+              "RelativeToolTip": "MVVM\\Comands\\MakeReservationCommand.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAewCQAAABQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-05T18:43:06.203Z",
+              "WhenOpened": "2024-12-07T12:44:41.009Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MakeReservationView.xaml",
-              "DocumentMoniker": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\Views\\MakeReservationView.xaml",
-              "RelativeDocumentMoniker": "MVVM\\Views\\MakeReservationView.xaml",
-              "ToolTip": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\Views\\MakeReservationView.xaml",
-              "RelativeToolTip": "MVVM\\Views\\MakeReservationView.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-05T06:03:18.358Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\App.xaml",
-              "RelativeDocumentMoniker": "MVVM\\App.xaml",
-              "ToolTip": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\App.xaml",
-              "RelativeToolTip": "MVVM\\App.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-04T19:24:57.865Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\App.xaml.cs",
-              "RelativeDocumentMoniker": "MVVM\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\App.xaml.cs",
-              "RelativeToolTip": "MVVM\\App.xaml.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAIAwwBgAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T19:25:19.945Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "MVVM\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\MainWindow.xaml.cs",
-              "RelativeToolTip": "MVVM\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T18:49:16.975Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "MVVM\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\MainWindow.xaml",
-              "RelativeToolTip": "MVVM\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-12-03T18:49:19.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "App.config",
               "DocumentMoniker": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\App.config",
               "RelativeDocumentMoniker": "MVVM\\App.config",
@@ -273,7 +231,132 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MVVM\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MVVM\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:49:16.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "MVVM\\Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\Models\\Reservation.cs",
+              "RelativeToolTip": "MVVM\\Models\\Reservation.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA6wBIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:51:33.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Hotel.cs",
+              "DocumentMoniker": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\Models\\Hotel.cs",
+              "RelativeDocumentMoniker": "MVVM\\Models\\Hotel.cs",
+              "ToolTip": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\Models\\Hotel.cs",
+              "RelativeToolTip": "MVVM\\Models\\Hotel.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAcwBcAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:50:56.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MakeReservationView.xaml",
+              "DocumentMoniker": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\Views\\MakeReservationView.xaml",
+              "RelativeDocumentMoniker": "MVVM\\Views\\MakeReservationView.xaml",
+              "ToolTip": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\Views\\MakeReservationView.xaml",
+              "RelativeToolTip": "MVVM\\Views\\MakeReservationView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-05T06:03:18.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ComandBase.cs",
+              "DocumentMoniker": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\Comands\\ComandBase.cs",
+              "RelativeDocumentMoniker": "MVVM\\Comands\\ComandBase.cs",
+              "ToolTip": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\Comands\\ComandBase.cs",
+              "RelativeToolTip": "MVVM\\Comands\\ComandBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:38:31.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\App.xaml.cs",
+              "RelativeDocumentMoniker": "MVVM\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\App.xaml.cs",
+              "RelativeToolTip": "MVVM\\App.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAIAwwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T19:25:19.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReservationBook.cs",
+              "DocumentMoniker": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\Models\\ReservationBook.cs",
+              "RelativeDocumentMoniker": "MVVM\\Models\\ReservationBook.cs",
+              "ToolTip": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\Models\\ReservationBook.cs",
+              "RelativeToolTip": "MVVM\\Models\\ReservationBook.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T18:51:17.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MakeReservationView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\Views\\MakeReservationView.xaml.cs",
+              "RelativeDocumentMoniker": "MVVM\\Views\\MakeReservationView.xaml.cs",
+              "ToolTip": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\Views\\MakeReservationView.xaml.cs",
+              "RelativeToolTip": "MVVM\\Views\\MakeReservationView.xaml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T13:20:42.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 15,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\App.xaml",
+              "RelativeDocumentMoniker": "MVVM\\App.xaml",
+              "ToolTip": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\App.xaml",
+              "RelativeToolTip": "MVVM\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-04T19:24:57.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReservationListingView.xaml",
+              "DocumentMoniker": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\Views\\ReservationListingView.xaml",
+              "RelativeDocumentMoniker": "MVVM\\Views\\ReservationListingView.xaml",
+              "ToolTip": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\Views\\ReservationListingView.xaml",
+              "RelativeToolTip": "MVVM\\Views\\ReservationListingView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-05T06:03:47.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "RoomID.cs",
               "DocumentMoniker": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\Models\\RoomID.cs",
               "RelativeDocumentMoniker": "MVVM\\Models\\RoomID.cs",
@@ -285,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "ReservationConflictException.cs",
               "DocumentMoniker": "C:\\Users\\TIA V19\\source\\repos\\MVVM\\MVVM\\Exceptions\\ReservationConflictException.cs",
               "RelativeDocumentMoniker": "MVVM\\Exceptions\\ReservationConflictException.cs",

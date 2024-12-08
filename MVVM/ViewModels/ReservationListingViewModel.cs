@@ -17,6 +17,7 @@ namespace MVVM.ViewModels
         public ReservationListingViewModel()
         {
             _reservations = new ObservableCollection<ReservationViewModel>();
+            MakeReservationCommand = new NavigationCommands();
 
             _reservations.Add(new ReservationViewModel(new Reservation(new RoomID(1, 2), "SingeltonSeah", DateTime.Now, DateTime.Now)));
             _reservations.Add(new ReservationViewModel(new Reservation(new RoomID(1, 2), "AAA", DateTime.Now, DateTime.Now)));

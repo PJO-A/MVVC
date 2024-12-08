@@ -114,6 +114,10 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Comands\CancelMakeReservationCommand.cs" />
+    <Compile Include="Comands\ComandBase.cs" />
+    <Compile Include="Comands\MakeReservationCommand.cs" />
+    <Compile Include="Comands\NavigateCommand.cs" />
     <Compile Include="ViewModels\MainViewModel.cs" />
     <Compile Include="ViewModels\MakeReservationViewModel.cs" />
     <Compile Include="ViewModels\ReservationListingViewModel.cs" />
